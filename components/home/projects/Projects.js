@@ -22,35 +22,25 @@ const projects = [
     imgSrc: "project-imgs/project.png",
     code: "https://github.com/RawaneG/Jayfii",
     projectLink: "https://jayfii.vercel.app",
-    tech: ["Angular", "Symfony", "REST APIs", "MySQL"],
+    tech: ["Angular", "Symfony", "Sass", "REST APIs", "MySQL"],
     description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+      "Stock Tracking & Management application including with E-commerce Functionnalities. Built alone",
     modalContent: (
       <>
         <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
+          Jayfii is an French e-commerce application combined with Stock &
+          Tracking Management Functionnalities allowing Sellers to keep track of
+          their sells & products availability.
         </p>
         <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
+          I conceived it with Angular on the frontend with the help of RxJS for
+          performance and smoothness and Angular Material to increase the User
+          Experience.
         </p>
+        <p>I'll let right below the test account to take a quick look :</p>
         <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          <b>Login</b> : rawane.meissa@gmail.com <br />
+          <b>Password</b> : rawane10 <br />
         </p>
       </>
     ),
@@ -62,26 +52,16 @@ const projects = [
     projectLink: "https://rs-netflix.vercel.app",
     tech: ["NextJS", "Prisma", "MongoDB", "Tailwind"],
     description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+      "Built a User friendly and Intuitive Netflix Clone reproducing core functionnalites of Netflix.",
     modalContent: (
       <>
         <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
-          This was a fun one.
+          This application has been build by implemeting Google and Github OAuth
+          speeding the authentification flow.
         </p>
         <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          The user has the possibility to list, put or remove of the list custom
+          series and in addition they have the ability to watch them.
         </p>
       </>
     ),
