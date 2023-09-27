@@ -15,6 +15,7 @@ export const Stats = () => {
             <span className="chip">PHP</span>
             <span className="chip">SQL</span>
             <span className="chip">HTML</span>
+            <span className="chip">Java</span>
             <span className="chip">Jira</span>
             <span className="chip">React</span>
             <span className="chip">NodeJS</span>
@@ -30,6 +31,7 @@ export const Stats = () => {
             <span className="chip">CSS / SASS</span>
             <span className="chip">JavaScript</span>
             <span className="chip">TypeScript</span>
+            <span className="chip">Spring Boot</span>
           </div>
         </div>
       </Reveal>
@@ -40,12 +42,12 @@ export const Stats = () => {
             <span>Use for fun</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">Java</span>
             <span className="chip">Figma</span>
             <span className="chip">Python</span>
+            <span className="chip">Selenium</span>
             <span className="chip">Tailwind</span>
+            <span className="chip">Puppeteer</span>
             <span className="chip">CommerceJS</span>
-            <span className="chip">Spring Boot</span>
             <span className="chip">Framer Motion</span>
           </div>
         </div>

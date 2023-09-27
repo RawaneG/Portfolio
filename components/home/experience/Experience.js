@@ -14,48 +14,38 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
+    title: "College 221",
+    position: "Software Engineer",
+    time: "2023 - Present",
+    location: "Senegal",
+    description:
+      "Conducted coding workshops and hands-on projects, enhancing student proficiency in web development concepts. Also Designed and delivered an engaging curriculum, boosting student engagement and retention by 30%.",
+    tech: ["PHP", "JavaScript", "HTML", "Git", "GitHub", "CSS"],
+  },
+  {
+    title: "Jayfii",
     position: "Software Engineer",
     time: "2022 - Present",
-    location: "Atlanta",
+    location: "France (Remote)",
     description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
+      "Implemented real-time stock tracking using Angular and Symfony, reducing stock discrepancies by 40%. Collaborated with cross-functional teams to integrate systems, improving operational efficiency by 25%..",
     tech: [
       "Angular",
-      "Python",
-      "GCP",
-      "Git",
-      "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
+      "Symfony 5",
+      "PHP",
+      "REST Apis",
+      "MySQL",
+      "Figma",
+      "Trello",
     ],
   },
   {
-    title: "Facebook",
+    title: "Sonatel",
     position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    time: "2022 - 2023",
+    location: "Senegal",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
-  },
-  {
-    title: "Amazon",
-    position: "Software Engineer",
-    time: "2016 - 2020",
-    location: "Seattle",
-    description:
-      "Data Engineer for store front. Built data pipelines with Spark and Airflow. Saw Bezos one time. He said he liked my paintings. I said I liked his hair.",
-    tech: [
-      "Java",
-      "Python",
-      "S3",
-      "RDS",
-      "Redshift",
-      "PySpark",
-      "HDFS",
-      "Apache Airflow",
-    ],
+      "Developed an Enterprise Risk Management project, reducing operational risks by 15% through Symfony and MySQL integration. Collaborated on a Quality Management project, improving product quality and customer satisfaction by 10%.",
+    tech: ["Symfony 4", "Keycloak", "PHP", "MySQL"],
   },
 ];

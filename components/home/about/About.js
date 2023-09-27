@@ -13,24 +13,11 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Bob, if you haven&apos;t already gathered that by
-              now. I&apos;m a painter turned software engineer from Daytona,
-              Florida. I specialize in the backend, primarily Node and Rust, but
-              love building with whatever tools are right for the job.
-            </p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-              I currently work for Google on Google Photos. I also toss in my ¢2
-              with the design systems teams from time to time (once an artist,
-              always an artist, amirite?).
-            </p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-              Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me scribbling some happy clouds with my son ☁️ I
-              even teach courses online if you&apos;re looking to learn!
+              Hello ! I&apos;m Rawane, if you haven&apos;t already gathered that
+              by now. I&apos;m an artist turned software engineer from Dakar,
+              Senegal. I'm focusing primarily on the frameworks Angular | React
+              and Symfony, but nevertheless I love building with whatever tools
+              are right for the job.
             </p>
           </Reveal>
           <Reveal>
