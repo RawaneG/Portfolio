@@ -4,7 +4,6 @@ import { AiFillMail } from "react-icons/ai";
 import Link from "next/link";
 
 export const Contact = () => {
-  let apos = "'";
   return (
     <section className="section-wrapper" id="contact">
       <div className={styles.contactWrapper}>
@@ -31,7 +30,7 @@ export const Contact = () => {
             >
               Twitter
             </Link>{" "}
-            if that{apos}s more your speed.
+            if that's more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">

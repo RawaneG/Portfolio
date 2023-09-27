@@ -14,7 +14,7 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "College 221",
+    title: "COLLEGE 221",
     position: "Software Engineer",
     time: "2023 - Present",
     location: "Senegal",
@@ -23,7 +23,7 @@ const experience = [
     tech: ["PHP", "JavaScript", "HTML", "Git", "GitHub", "CSS"],
   },
   {
-    title: "Jayfii",
+    title: "SOLOM",
     position: "Software Engineer",
     time: "2022 - Present",
     location: "France (Remote)",
@@ -40,7 +40,7 @@ const experience = [
     ],
   },
   {
-    title: "Sonatel",
+    title: "SONATEL",
     position: "Software Engineer",
     time: "2022 - 2023",
     location: "Senegal",
