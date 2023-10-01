@@ -14,8 +14,17 @@ export const Experience = () => {
 
 const experience = [
   {
+    title: "CONSULTING IOT",
+    position: "Web Developer",
+    time: "2023 - Present",
+    location: "France (Remote)",
+    description:
+      "Developed a vehicle tracking application enabling real-time GPS monitoring, resulting in a 20% improvement in fleet management efficiency by optimizing routes and reducing fuel consumption.",
+    tech: ["PHP", "JavaScript", "HTML", "Git", "GitHub", "CSS"],
+  },
+  {
     title: "COLLEGE 221",
-    position: "Software Engineer",
+    position: "Web Development Coach",
     time: "2023 - Present",
     location: "Senegal",
     description:
@@ -24,7 +33,7 @@ const experience = [
   },
   {
     title: "SOLOM",
-    position: "Software Engineer",
+    position: "Web Developer",
     time: "2022 - Present",
     location: "France (Remote)",
     description:
@@ -41,7 +50,7 @@ const experience = [
   },
   {
     title: "SONATEL",
-    position: "Software Engineer",
+    position: "Web Developer",
     time: "2022 - 2023",
     location: "Senegal",
     description:

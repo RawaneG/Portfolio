@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
-import styles from "./sidebar.module.scss";
 import { motion } from "framer-motion";
+import styles from "./sidebar.module.scss";
+import { useEffect, useState } from "react";
 
 export const SideBar = () => {
   const [selected, setSelected] = useState("");

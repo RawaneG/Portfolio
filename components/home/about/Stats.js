@@ -26,9 +26,10 @@ export const Stats = () => {
             <span className="chip">Laravel</span>
             <span className="chip">Express</span>
             <span className="chip">MongoDB</span>
+            <span className="chip">Wordpress</span>
             <span className="chip">REST APIs</span>
             <span className="chip">BitBucket</span>
-            <span className="chip">CSS / SASS</span>
+            <span className="chip">CSS / Sass</span>
             <span className="chip">JavaScript</span>
             <span className="chip">TypeScript</span>
             <span className="chip">Spring Boot</span>
