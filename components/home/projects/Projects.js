@@ -50,7 +50,7 @@ const projects = [
     imgSrc: "project-imgs/project.jpg",
     code: "https://github.com/RawaneG/GPS_Tracker_EJITRACE",
     projectLink: "http://dev.consultingiot.fr",
-    tech: ["Angular", "Symfony", "Sass", "REST APIs", "MySQL"],
+    tech: ["JavaScript", "JsGrid", "JQuery", "HTML", "CSS", "PHP", "MySQL"],
     description:
       "Crafted a sophisticated french application that empowers users to seamlessly monitor their vehicle fleet, offering real-time updates on trip histories. This innovative solution not only enhances financial oversight but also fosters transparency in vehicle management.",
     modalContent: (
