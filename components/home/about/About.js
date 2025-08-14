@@ -11,7 +11,7 @@ export const About = () => {
   const { t } = useTranslation(["about", "common"]);
   return (
     <section id="about" className="section-wrapper">
-      <SectionHeader title={t("common:nav.about")} dir="l" />
+      <SectionHeader title={t("common:nav.about")} dir="l" titleWidth="max-content" />
       <div className={styles.about}>
         <div>
           <Reveal>
