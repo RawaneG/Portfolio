@@ -24,14 +24,6 @@ export const Contact = () => {
             >
               {t("body.linkedin")}
             </Link>{" "}
-            {t("body.or")} {" "}
-            <Link
-              href="https://twitter.com/hadji_meissa"
-              target="_blank"
-              rel="nofollow"
-            >
-              {t("body.twitter")}
-            </Link>{" "}
             {t("body.bottom")}
           </p>
         </Reveal>

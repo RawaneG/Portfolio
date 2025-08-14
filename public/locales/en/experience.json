@@ -20,7 +20,7 @@
   {
    "title": "École Supérieure 221",
    "position": "Web Development Instructor",
-   "time": "February 2023 - Present",
+   "time": "February 2023 - January 2024",
    "location": "Dakar, Senegal",
    "description": "Trained 75+ first- and second-year students in web development with hands-on projects. Debugged and analyzed student code (HTML, CSS, JavaScript, PHP) with constructive feedback. Shared regular tech updates to encourage awareness and self-learning.",
    "tech": [
@@ -44,26 +44,6 @@
    ]
   },
   {
-   "title": "SOLOM (Solution On Mobiles)",
-   "position": "Full-Stack Web Developer (Freelance)",
-   "time": "September 2022 - Present",
-   "location": "Belgium (Remote)",
-   "description": "Created a Point of Sale (POS) application with inventory and sales tracking using Angular. Developed RESTful APIs with Symfony and MySQL, optimized with API Platform. Managed server production with PuTTY and deployed the frontend via Vercel.",
-   "tech": [
-    "Angular",
-    "Symfony",
-    "API Platform",
-    "MySQL",
-    "REST APIs",
-    "Sass",
-    "Figma",
-    "SCRUM",
-    "Trello",
-    "Vercel",
-    "PuTTY"
-   ]
-  },
-  {
    "title": "Consulting IOT",
    "position": "Full-Stack Web Developer",
    "time": "July 2023 - October 2023",
@@ -78,6 +58,26 @@
     "MySQL",
     "Git",
     "GitHub"
+   ]
+  },
+  {
+   "title": "SOLOM (Solution On Mobiles)",
+   "position": "Full-Stack Web Developer (Freelance)",
+   "time": "September 2022 - March 2023",
+   "location": "Belgium (Remote)",
+   "description": "Created a Point of Sale (POS) application with inventory and sales tracking using Angular. Developed RESTful APIs with Symfony and MySQL, optimized with API Platform. Managed server production with PuTTY and deployed the frontend via Vercel.",
+   "tech": [
+    "Angular",
+    "Symfony",
+    "API Platform",
+    "MySQL",
+    "REST APIs",
+    "Sass",
+    "Figma",
+    "SCRUM",
+    "Trello",
+    "Vercel",
+    "PuTTY"
    ]
   },
   {

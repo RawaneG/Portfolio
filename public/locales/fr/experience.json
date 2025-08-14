@@ -3,7 +3,7 @@
   {
    "title": "ModelSIS",
    "position": "Développeur Frontend",
-   "time": "Janvier 2024 - Présent",
+   "time": "Février 2024 - Présent",
    "location": "Dakar, Sénégal",
    "description": "Développement d'un système intégré de gestion foncière avec Angular 17 pour la Direction Générale des Impôts et des Domaines. Création de bibliothèques de composants Nx réutilisables à partir de maquettes Figma et documentation des composants avec Storybook pour améliorer l'UX développeur et la cohérence UI.",
    "tech": [
@@ -20,7 +20,7 @@
   {
    "title": "École Supérieure 221",
    "position": "Formateur en Développement Web",
-   "time": "Février 2023 - Présent",
+   "time": "Février 2023 - Janvier 2024",
    "location": "Dakar, Sénégal",
    "description": "Formation de plus de 75 étudiants en 1ère et 2ème année au développement web via des projets pratiques. Debug et analyse de code (HTML, CSS, JavaScript, PHP) avec retours constructifs. Veille technologique régulière pour encourager l'auto-apprentissage.",
    "tech": [
@@ -44,10 +44,27 @@
    ]
   },
   {
+   "title": "Consulting IOT",
+   "position": "Développeur Web Full-Stack",
+   "time": "Juillet 2023 - Octobre 2023",
+   "location": "France (Télétravail)",
+   "description": "Développement d'une application de suivi de véhicules en temps réel avec PHP, Leaflet, jQuery et JsGrid. Historique des trajets via l'API OpenStreetMap, améliorant transparence et fidélisation client.",
+   "tech": [
+    "PHP",
+    "Leaflet",
+    "jQuery",
+    "JsGrid",
+    "OpenStreetMap",
+    "MySQL",
+    "Git",
+    "GitHub"
+   ]
+  },
+  {
    "title": "SOLOM (Solution On Mobiles)",
    "position": "Développeur Web Full-Stack (Freelance)",
-   "time": "Septembre 2022 - Présent",
-   "location": "Belgique (Remote)",
+   "time": "Septembre 2022 - Mars 2023",
+   "location": "Belgique (Télétravail)",
    "description": "Création d'une application de Point de Vente (POS) avec suivi des stocks et des ventes en Angular. Développement d'APIs REST avec Symfony et MySQL, optimisées via API Platform. Gestion de la production serveur avec PuTTY et déploiement du frontend sur Vercel.",
    "tech": [
     "Angular",
@@ -61,23 +78,6 @@
     "Trello",
     "Vercel",
     "PuTTY"
-   ]
-  },
-  {
-   "title": "Consulting IOT",
-   "position": "Développeur Web Full-Stack",
-   "time": "Juillet 2023 - Octobre 2023",
-   "location": "France (Remote)",
-   "description": "Développement d'une application de suivi de véhicules en temps réel avec PHP, Leaflet, jQuery et JsGrid. Historique des trajets via l'API OpenStreetMap, améliorant transparence et fidélisation client.",
-   "tech": [
-    "PHP",
-    "Leaflet",
-    "jQuery",
-    "JsGrid",
-    "OpenStreetMap",
-    "MySQL",
-    "Git",
-    "GitHub"
    ]
   },
   {
@@ -103,7 +103,7 @@
    "title": "Team Touba Façade",
    "position": "Développeur Web",
    "time": "Avril 2023 - Octobre 2023",
-   "location": "France (Remote)",
+   "location": "France (Télétravail)",
    "description": "Mise en place et gestion d'un site vitrine de rénovation de façades, avec WordPress et Webflow.",
    "tech": [
     "WordPress",

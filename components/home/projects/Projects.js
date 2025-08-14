@@ -5,7 +5,7 @@ import { useTranslation } from "next-i18next";
 
 export const Projects = () => {
   const { t } = useTranslation(["projects", "common"]);
-  const translated = t("projects.projects", { returnObjects: true });
+  const translated = t("projects", { returnObjects: true });
   const projects = Array.isArray(translated) ? translated : [];
   return (
     <section className="section-wrapper" id="projects">
