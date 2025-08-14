@@ -1,0 +1,83 @@
+{
+ "learn_more": "En savoir plus",
+ "projects": [
+  {
+   "title": "Jayfii",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/Jayfii",
+   "projectLink": "https://jayfii.vercel.app",
+   "tech": [
+    "Angular",
+    "Symfony",
+    "Sass",
+    "REST APIs",
+    "MySQL"
+   ],
+   "description": "Application de suivi et gestion de stock avec fonctionnalités e-commerce. Réalisée en solo.",
+   "modalContent": [
+    "Jayfii est une application e-commerce française combinée à la gestion et au suivi de stock permettant aux vendeurs de suivre leurs ventes et la disponibilité des produits.",
+    "Conçue avec Angular côté frontend, RxJS pour la performance et Angular Material pour améliorer l'expérience utilisateur.",
+    "Identifiants de test ci-dessous :",
+    "Login : rawane.meissa@gmail.com",
+    "Mot de passe : rawane10"
+   ]
+  },
+  {
+   "title": "EJTRACE",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/GPS_Tracker_EJITRACE",
+   "projectLink": "http://dev.consultingiot.fr",
+   "tech": [
+    "JavaScript",
+    "JsGrid",
+    "JQuery",
+    "HTML",
+    "CSS",
+    "PHP",
+    "MySQL"
+   ],
+   "description": "Application permettant de suivre une flotte de véhicules avec l'historique des trajets en temps réel — améliore le pilotage financier et la transparence.",
+   "modalContent": [
+    "Compte de test :",
+    "Login : rawane.meissa@gmail.com",
+    "Mot de passe : admin"
+   ]
+  },
+  {
+   "title": "Team Touba Façade",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "",
+   "projectLink": "https://team-touba-façades.com",
+   "tech": [
+    "WordPress",
+    "PHP",
+    "JQuery",
+    "Astra Plugin"
+   ],
+   "description": "Site vitrine présentant des projets de rénovation de façades, offrant une plateforme pour découvrir ces transformations architecturales.",
+   "modalContent": []
+  },
+  {
+   "title": "Netflix",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/rs_Netflix",
+   "projectLink": "https://rs-netflix.vercel.app",
+   "tech": [
+    "NextJS",
+    "Prisma",
+    "MongoDB",
+    "Tailwind"
+   ],
+   "description": "Clone Netflix convivial reproduisant les fonctionnalités principales.",
+   "modalContent": [
+    "Construit avec l'authentification Google et GitHub OAuth pour accélérer le flux.",
+    "Les utilisateurs peuvent gérer une liste personnalisée de séries et les regarder."
+   ]
+  }
+ ],
+ "modal": {
+  "links": "Liens du projet",
+  "source_code": "code source",
+  "live_project": "projet en ligne"
+ }
+}

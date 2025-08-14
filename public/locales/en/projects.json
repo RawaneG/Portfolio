@@ -1,0 +1,83 @@
+{
+ "learn_more": "Learn more",
+ "projects": [
+  {
+   "title": "Jayfii",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/Jayfii",
+   "projectLink": "https://jayfii.vercel.app",
+   "tech": [
+    "Angular",
+    "Symfony",
+    "Sass",
+    "REST APIs",
+    "MySQL"
+   ],
+   "description": "Stock Tracking & Management application including with E-commerce functionalities. Built solo.",
+   "modalContent": [
+    "Jayfii is a French e-commerce application combined with Stock & Tracking Management allowing sellers to keep track of their sales & product availability.",
+    "I built it with Angular on the frontend using RxJS for performance and Angular Material to improve UX.",
+    "Test credentials are below:",
+    "Login: rawane.meissa@gmail.com",
+    "Password: rawane10"
+   ]
+  },
+  {
+   "title": "EJTRACE",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/GPS_Tracker_EJITRACE",
+   "projectLink": "http://dev.consultingiot.fr",
+   "tech": [
+    "JavaScript",
+    "JsGrid",
+    "JQuery",
+    "HTML",
+    "CSS",
+    "PHP",
+    "MySQL"
+   ],
+   "description": "A French app to monitor vehicle fleets with real-time trip histories—improving financial oversight and transparency.",
+   "modalContent": [
+    "Test account:",
+    "Login: rawane.meissa@gmail.com",
+    "Password: admin"
+   ]
+  },
+  {
+   "title": "Team Touba Façade",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "",
+   "projectLink": "https://team-touba-façades.com",
+   "tech": [
+    "WordPress",
+    "PHP",
+    "JQuery",
+    "Astra Plugin"
+   ],
+   "description": "Website showcasing façade renovation projects, offering a platform for clients to explore architectural transformations.",
+   "modalContent": []
+  },
+  {
+   "title": "Netflix",
+   "imgSrc": "project-imgs/project.jpg",
+   "code": "https://github.com/RawaneG/rs_Netflix",
+   "projectLink": "https://rs-netflix.vercel.app",
+   "tech": [
+    "NextJS",
+    "Prisma",
+    "MongoDB",
+    "Tailwind"
+   ],
+   "description": "A user-friendly Netflix clone reproducing core functionalities.",
+   "modalContent": [
+    "Built with Google and GitHub OAuth to speed up authentication.",
+    "Users can maintain a custom list of series and watch them."
+   ]
+  }
+ ],
+ "modal": {
+  "links": "Project Links",
+  "source_code": "source code",
+  "live_project": "live project"
+ }
+}

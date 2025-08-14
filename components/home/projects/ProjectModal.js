@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { AiFillGithub, AiOutlineExport } from "react-icons/ai";
 import { MdClose } from "react-icons/md";
+import { useTranslation } from "next-i18next";
 
 export const ProjectModal = ({
   modalContent,
@@ -16,6 +17,7 @@ export const ProjectModal = ({
   code,
   tech,
 }) => {
+  const { t } = useTranslation("projects");
   useEffect(() => {
     const body = document.querySelector("body");
 
@@ -47,18 +49,22 @@ export const ProjectModal = ({
           <h4>{title}</h4>
           <div className={styles.modalTech}>{tech.join(" - ")}</div>
 
-          <div className={styles.suppliedContent}>{modalContent}</div>
+          <div className={styles.suppliedContent}>
+            {Array.isArray(modalContent)
+              ? modalContent.map((p, i) => <p key={i}>{p}</p>)
+              : modalContent}
+          </div>
 
           <div className={styles.modalFooter}>
             <p className={styles.linksText}>
-              Project Links<span>.</span>
+              {t("modal.links")}<span>.</span>
             </p>
             <div className={styles.links}>
               <Link target="_blank" rel="nofollow" href={code}>
-                <AiFillGithub /> source code
+                <AiFillGithub /> {t("modal.source_code")}
               </Link>
               <Link target="_blank" rel="nofollow" href={projectLink}>
-                <AiOutlineExport /> live project
+                <AiOutlineExport /> {t("modal.live_project")}
               </Link>
             </div>
           </div>

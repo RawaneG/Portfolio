@@ -1,9 +1,11 @@
 import { motion } from "framer-motion";
 import styles from "./sidebar.module.scss";
 import { useEffect, useState } from "react";
+import { useTranslation } from "next-i18next";
 
 export const SideBar = () => {
   const [selected, setSelected] = useState("");
+  const { t } = useTranslation("common");
 
   useEffect(() => {
     const sections = document.querySelectorAll(".section-wrapper");
@@ -45,7 +47,7 @@ export const SideBar = () => {
         }}
         className={selected === "about" ? styles.selected : ""}
       >
-        About
+        {t("nav.about")}
       </motion.a>
       <motion.a
         initial={{ x: -70 }}
@@ -55,7 +57,7 @@ export const SideBar = () => {
         onClick={() => setSelected("projects")}
         className={selected === "projects" ? styles.selected : ""}
       >
-        Projects
+        {t("nav.projects")}
       </motion.a>
       <motion.a
         initial={{ x: -70 }}
@@ -65,7 +67,7 @@ export const SideBar = () => {
         onClick={() => setSelected("experience")}
         className={selected === "experience" ? styles.selected : ""}
       >
-        Exp.
+        {t("nav.experience")}
       </motion.a>
       <motion.a
         initial={{ x: -70 }}
@@ -75,7 +77,7 @@ export const SideBar = () => {
         onClick={() => setSelected("contact")}
         className={selected === "contact" ? styles.selected : ""}
       >
-        Contact
+        {t("nav.contact")}
       </motion.a>
     </motion.nav>
   );

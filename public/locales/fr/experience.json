@@ -1,0 +1,166 @@
+{
+ "items": [
+  {
+   "title": "ModelSIS",
+   "position": "Développeur Frontend",
+   "time": "Janvier 2024 - Présent",
+   "location": "Dakar, Sénégal",
+   "description": "Développement d'un système intégré de gestion foncière avec Angular 17 pour la Direction Générale des Impôts et des Domaines. Création de bibliothèques de composants Nx réutilisables à partir de maquettes Figma et documentation des composants avec Storybook pour améliorer l'UX développeur et la cohérence UI.",
+   "tech": [
+    "Angular 17",
+    "Nx",
+    "Storybook",
+    "TypeScript",
+    "SCSS",
+    "APIs REST",
+    "Figma",
+    "Git"
+   ]
+  },
+  {
+   "title": "École Supérieure 221",
+   "position": "Formateur en Développement Web",
+   "time": "Février 2023 - Présent",
+   "location": "Dakar, Sénégal",
+   "description": "Formation de plus de 75 étudiants en 1ère et 2ème année au développement web via des projets pratiques. Debug et analyse de code (HTML, CSS, JavaScript, PHP) avec retours constructifs. Veille technologique régulière pour encourager l'auto-apprentissage.",
+   "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "Bootstrap",
+    "MySQL",
+    "Laravel",
+    "Sass",
+    "Git",
+    "GitHub",
+    "SCRUM",
+    "MVC",
+    "POO",
+    "UML",
+    "Figma",
+    "Trello",
+    "Apache"
+   ]
+  },
+  {
+   "title": "SOLOM (Solution On Mobiles)",
+   "position": "Développeur Web Full-Stack (Freelance)",
+   "time": "Septembre 2022 - Présent",
+   "location": "Belgique (Remote)",
+   "description": "Création d'une application de Point de Vente (POS) avec suivi des stocks et des ventes en Angular. Développement d'APIs REST avec Symfony et MySQL, optimisées via API Platform. Gestion de la production serveur avec PuTTY et déploiement du frontend sur Vercel.",
+   "tech": [
+    "Angular",
+    "Symfony",
+    "API Platform",
+    "MySQL",
+    "APIs REST",
+    "Sass",
+    "Figma",
+    "SCRUM",
+    "Trello",
+    "Vercel",
+    "PuTTY"
+   ]
+  },
+  {
+   "title": "Consulting IOT",
+   "position": "Développeur Web Full-Stack",
+   "time": "Juillet 2023 - Octobre 2023",
+   "location": "France (Remote)",
+   "description": "Développement d'une application de suivi de véhicules en temps réel avec PHP, Leaflet, jQuery et JsGrid. Historique des trajets via l'API OpenStreetMap, améliorant transparence et fidélisation client.",
+   "tech": [
+    "PHP",
+    "Leaflet",
+    "jQuery",
+    "JsGrid",
+    "OpenStreetMap",
+    "MySQL",
+    "Git",
+    "GitHub"
+   ]
+  },
+  {
+   "title": "Sonatel",
+   "position": "Développeur Web Full-Stack",
+   "time": "Octobre 2022 - Janvier 2023",
+   "location": "Dakar, Sénégal",
+   "description": "Refonte et intégration de systèmes de gestion des risques et de la qualité avec Symfony et MySQL. Mise en place du SSO Keycloak et pipelines CI/CD avec Bitbucket, Jenkins et Docker.",
+   "tech": [
+    "Symfony",
+    "Keycloak",
+    "APIs REST",
+    "Bitbucket",
+    "Jenkins",
+    "Docker",
+    "CI/CD",
+    "MVC",
+    "POO",
+    "MySQL"
+   ]
+  },
+  {
+   "title": "Team Touba Façade",
+   "position": "Développeur Web",
+   "time": "Avril 2023 - Octobre 2023",
+   "location": "France (Remote)",
+   "description": "Mise en place et gestion d'un site vitrine de rénovation de façades, avec WordPress et Webflow.",
+   "tech": [
+    "WordPress",
+    "Webflow",
+    "PHP",
+    "jQuery",
+    "Astra",
+    "Elementor Pro",
+    "Plugins"
+   ]
+  },
+  {
+   "title": "Sonatel Academy",
+   "position": "Développeur Web & Mobile",
+   "time": "Octobre 2021 - Septembre 2022",
+   "location": "Dakar, Sénégal",
+   "description": "Création d'une application de gestion de projets type Trello en Vanilla JavaScript. Développement et gestion d'une plateforme e-learning. Conception d'APIs REST pour une appli de livraison avec Symfony et API Platform, consommées en Angular, et version mobile avec Ionic.",
+   "tech": [
+    "HTML",
+    "CSS",
+    "Sass",
+    "JavaScript",
+    "Bootstrap",
+    "PHP",
+    "POO",
+    "MVC",
+    "Angular",
+    "Node.js",
+    "Symfony",
+    "APIs REST",
+    "API Platform",
+    "Nginx",
+    "Trello",
+    "SCRUM",
+    "Ubuntu",
+    "Figma",
+    "WordPress",
+    "Ionic"
+   ]
+  },
+  {
+   "title": "Kanki's Shop",
+   "position": "Développeur Web",
+   "time": "Octobre 2018 - Septembre 2020",
+   "location": "Sénégal",
+   "description": "Développement et supervision d'une application e-commerce mode & cosmétiques pour une startup avec PHP, JavaScript et jQuery, augmentant la rétention et l'intérêt client de 50%.",
+   "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "PHP",
+    "POO",
+    "Figma",
+    "jQuery",
+    "MySQL"
+   ]
+  }
+ ]
+}

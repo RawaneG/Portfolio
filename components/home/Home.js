@@ -7,11 +7,13 @@ import { About } from "./about/About";
 import { Projects } from "./projects/Projects";
 import { Experience } from "./experience/Experience";
 import { Contact } from "./contact/Contact";
+import { LanguageGate } from "@/components/utils/LanguageGate";
 
 export const Home = () => {
   return (
     <>
       <div className={styles.home}>
+        <LanguageGate />
         <SideBar />
         <main>
           <Heading />

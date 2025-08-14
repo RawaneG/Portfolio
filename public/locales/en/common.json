@@ -1,3 +1,15 @@
 {
-    "title" : "Rawane Sow | Web Developer"
+    "title": "Rawane Sow | Web Developer",
+    "resume": "My resume",
+    "language": {
+        "choose": "Choose your language",
+        "english": "English",
+        "french": "French"
+    },
+    "nav": {
+        "about": "About",
+        "projects": "Projects",
+        "experience": "Experience",
+        "contact": "Contact"
+    }
 }

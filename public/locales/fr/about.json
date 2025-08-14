@@ -1,3 +1,9 @@
 {
-  "about": "Salut ! Je m'appelle Rawane. Je suis un artiste devenu ingénieur logiciel à Dakar, au Sénégal. Je me passionne principalement sur les frameworks Angular | React et Symfony, mais j'aime néanmoins construire avec tous les outils adaptés à mon travail."
+  "about": {
+    "first-text": "Salut ! Je m'appelle Rawane, si vous ne l'avez pas déjà deviné. Je suis un artiste devenu ingénieur logiciel à Dakar, au Sénégal. Je me concentre principalement sur les frameworks Angular | React et Symfony, mais j'aime construire avec tous les outils adaptés au besoin.",
+    "second-text": "Je suis à l'écoute d'opportunités où je peux combiner mon amour du code et de la création. Si vous pensez avoir une ouverture qui pourrait me plaire, connectons-nous 🔗"
+  },
+  "my_links": "Mes liens",
+  "use_at_work": "Utilisés au travail",
+  "use_for_fun": "Utilisés pour le fun"
 }

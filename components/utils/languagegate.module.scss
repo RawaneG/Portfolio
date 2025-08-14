@@ -1,0 +1,31 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+}
+.card {
+  background: var(--background);
+  border: 1px solid var(--text);
+  border-radius: 16px;
+  padding: 24px;
+  max-width: 520px;
+  width: 90%;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+.title {
+  font-size: 1.25rem;
+  margin: 0 0 12px;
+}
+.actions {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+}
+.actions button {
+  flex: 1;
+}

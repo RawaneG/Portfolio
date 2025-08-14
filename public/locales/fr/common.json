@@ -1,3 +1,15 @@
 {
-    "title" : "Rawane Sow | Développeur Web"
+    "title": "Rawane Sow | Développeur Web",
+    "resume": "Mon CV",
+    "language": {
+        "choose": "Choisissez votre langue",
+        "english": "Anglais",
+        "french": "Français"
+    },
+    "nav": {
+        "about": "À propos",
+        "projects": "Projets",
+        "experience": "Expériences",
+        "contact": "Contact"
+    }
 }

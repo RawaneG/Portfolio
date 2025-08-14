@@ -2,33 +2,33 @@ import { StandardButton } from "@/components/buttons/StandardButton";
 import { Reveal } from "@/components/utils/Reveal";
 import { DotGrid } from "./DotGrid";
 import styles from "./hero.module.scss";
+import { useTranslation } from "next-i18next";
 
 export const Hero = () => {
+  const { t } = useTranslation("hero");
   return (
     <section className={`section-wrapper ${styles.hero}`}>
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            Hi, I'm Rawane<span>.</span>
+            {t("title")}<span>.</span>
           </h1>
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            I'm a <span>Full Stack Developer</span>
+            {t("subtitle_before")} <span>{t("subtitle_highlight")}</span>
           </h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I've spent the last 5 years building and scaling software for some
-            pretty cool companies. I also teach people web development. Let 's
-            connect!
+            {t("blurb")}
           </p>
         </Reveal>
         <Reveal>
           <StandardButton
             onClick={() => document.getElementById("contact")?.scrollIntoView()}
           >
-            Contact me
+            {t("cta")}
           </StandardButton>
         </Reveal>
       </div>

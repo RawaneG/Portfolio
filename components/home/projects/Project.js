@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { AiFillGithub, AiOutlineExport } from "react-icons/ai";
 import { ProjectModal } from "./ProjectModal";
 import styles from "./projects.module.scss";
+import { useTranslation } from "next-i18next";
 
 export const Project = ({
   modalContent,
@@ -18,6 +19,7 @@ export const Project = ({
   const [hovered, setHovered] = useState(false);
 
   const [isOpen, setIsOpen] = useState(false);
+  const { t } = useTranslation("projects");
 
   const controls = useAnimation();
 
@@ -80,7 +82,7 @@ export const Project = ({
           <Reveal>
             <p className={styles.projectDescription}>
               {description}{" "}
-              <span onClick={() => setIsOpen(true)}>Learn more {">"}</span>
+              <span onClick={() => setIsOpen(true)}>{t("learn_more")} {">"}</span>
             </p>
           </Reveal>
         </div>
